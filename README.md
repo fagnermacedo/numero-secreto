@@ -6,4 +6,4 @@ Código de programas usados para treinamento com Git  e GitHub.
   <img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
 </div>
 
-## Curso da Alura 
+## Curso da Alura - Sempre o mais querido
